@@ -9,7 +9,7 @@ import {} from '../../core/uzUtils.js'
 class ResYunPan extends WebApiBase {
     constructor() {
         super()
-        this.webSite = 'https://res.yunpan.win'
+        this.webSite = 'https://ypans.cc'
     }
     /**
      * 异步获取分类列表的方法。
