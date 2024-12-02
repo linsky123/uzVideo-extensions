@@ -342,5 +342,13 @@
         "remark": "",
         "version": "2",
         "type": 100
-    }
+    },
+    {
+            "name": "云盘搜",
+            "api": "https://ghproxy.cn/https://raw.githubusercontent.com/linsky123/uzVideo-extensions/refs/heads/main/vod/js/yunpansou.js",
+            "instance": "duopan20241030",
+            "webSite": "https://ypans.cc",
+            "remark": "云盘搜",
+            "type": 100
+        }
 ]
