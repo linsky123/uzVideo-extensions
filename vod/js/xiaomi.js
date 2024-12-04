@@ -1,5 +1,5 @@
 // 类名要特殊
-class Mogg20241028 extends WebApiBase {
+class xiaomi20241028 extends WebApiBase {
   constructor() {
     super();
     this.webSite = 'http://www.mucpan.cc';
